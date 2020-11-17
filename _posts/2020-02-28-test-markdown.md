@@ -1,78 +1,12 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+title: Why “Heimat” is becoming popular in Germany again
 ---
+As part of the project about how people from different ethnicities see their country, I read an article about the word “Heimat” and its usage in the German vocabulary. The following text will summarize the article written by Gregor Tholl on the 08.02.2918.
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+While words representing places one feels like they belong to, eg.“Heimat”, translating to home or homeland,  haven’t been used actively in Germany for quite a while, the common usage of the word is starting to increase with “home” specifically. This being the case has already led to the government introducing ministries of “home” in several states and even the president making a note of it in a speech. 
+Some people believe that this is caused by many Germans feeling like they are losing their belonging to Germany and its culture, which is greatly influenced by global and local cultural changes. 
+An example for this is the cultural split between the west and the east of Germany, that stayed even after the soviet part of Germany in the east united with the west in 1990, which has been fading more and more. Other examples seem to be migrants entering Germany with different cultural interests and globalism increasing the usage of English with the decline of German. These and other issues make Germans feel like they might lose the distinct culture that kept them together.
+The usage of the word “home” specifically in favour of more common synonyms has been influenced by nazism which used words like “fatherland” or “nation” and created a negative association around them. 
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+All in all, the article succeeds in explaining the increasing feeling of a disconnect with the changing culture in Germany of the citizens and the inherent increase of the usage of the word “home” as a consequence.
